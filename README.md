@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 BCCI Match Days Data 
 
-Description of the app ...
+This app helps compile all the matches played in a BCCI season in one place.
 
 ## Demo App
 
