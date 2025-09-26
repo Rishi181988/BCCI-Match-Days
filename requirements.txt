@@ -1,1 +1,10 @@
-streamlit>=1.26.0
+streamlit
+requests
+json
+re
+pandas
+time
+os
+argparse
+datetime
+collections
