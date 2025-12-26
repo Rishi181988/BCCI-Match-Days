@@ -11,9 +11,9 @@ from io import BytesIO
 
 from bcci_upcoming_matches_scraper import BCCIUpcomingMatchesScraper as RealScraper
 
-st.title('🎈 BCCI Match Data')
+# st.title('🎈 BCCI Match Data')
 
-st.write('This app compile all the BCCI domestic matches in one place')
+# st.write('This app compile all the BCCI domestic matches in one place')
 
 # --- Scraper Class Integration ---
 # (The provided scraper code is included here, with minor modifications
